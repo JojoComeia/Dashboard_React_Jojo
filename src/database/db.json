@@ -1,0 +1,52 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "email": "testeemail@protonmail.com",
+      "password": "CCcomeiaacademy123!@#_"
+    }
+  ],
+  "informacoes": [
+    {
+      "id": 1,
+      "foto": "https://github.com/JojoComeia.png",
+      "nome": "Johnatan Silva",
+      "cargo": "Dev de Software",
+      "resumo": "Lorem Ipsum X249"
+    }
+  ],
+  "experiencias": [
+    {
+      "id": 1,
+      "titulo": "Desenvolvimento da água em pó",
+      "descricao": "",
+      "tipo": "profissional",
+      "anoInicio": "2022",
+      "anoFim": "2023"
+    },
+    {
+      "id": 2,
+      "titulo": "Desenvolvedor",
+      "descricao": "",
+      "tipo": "profissional",
+      "anoInicio": "2021",
+      "anoFim": "2022"
+    },
+    {
+      "id": 3,
+      "titulo": "Paçoquita a paçoca da galera",
+      "descricao": "",
+      "tipo": "academico",
+      "anoInicio": "2023",
+      "anoFim": "2023"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": 3,
+      "link": "https://picsum.photos/200",
+      "image": "https://picsum.photos/200",
+      "title": "Lorem Ipsum numero xyz"
+    }
+  ]
+}
